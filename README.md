@@ -28,5 +28,3 @@
 <p align="left">
   O futuro é cheio de possibilidades. Vamos ver onde essa jornada me leva! 😄
 </p>
-
----
