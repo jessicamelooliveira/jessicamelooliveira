@@ -21,8 +21,6 @@
   <a href="#" title="C++"> <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++"/> </a>
 </div>
 
----
-
 ### 🚀 **O que vem por aí**
 
 <p align="left">
