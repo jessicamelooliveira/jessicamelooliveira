@@ -1,10 +1,32 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="200px">
+</div>
 
-<p align="left"> 
-  Olá, mundo! Meu nome é Jéssica! Sou apenas uma curiosa na área de programação. ⚡ Tenho formação técnica em Eletrônica e estou cursando Engenharia Elétrica. 🏠 Sou brasileira.
+<h1 align="center">Olá, mundo! 👋</h1>
+
+<p align="center"> 
+  Eu sou a Jéssica, uma curiosa na área de programação, apaixonada por aprender coisas novas.⚡ Com formação técnica em Eletrônica e atualmente cursando Engenharia Elétrica, estou sempre em busca de novos desafios e oportunidades para crescer. 💚 Sou brasileira e acredito que o aprendizado nunca deve parar!
 </p>
+
+---
+
+### 🖥️ **Minha Experiência em Programação**
 
 <p align="left">
-  Tenho experiência com: <a href="#" title="C"> <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C"/></a>
-  e <a href="#" title="C++"> <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++"/></a>
+  Estou começando a minha jornada na programação e, por enquanto, tenho experiência com as linguagens:
 </p>
+
+<div align="left">
+  <a href="#" title="C"> <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C"/> </a>
+  <a href="#" title="C++"> <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++"/> </a>
+</div>
+
+---
+
+### 🚀 **O que vem por aí**
+
+<p align="left">
+  O futuro é cheio de possibilidades. Vamos ver onde essa jornada me leva! 😄
+</p>
+
+---
