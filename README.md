@@ -26,3 +26,8 @@
 <p align="left">
   O futuro é cheio de possibilidades. Vamos ver onde essa jornada me leva! 😄
 </p>
+
+## Github Overview
+
+<img align="left" alt="Jéssica's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jessicamelooliveira&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamelooliveira)](https://github.com/anuraghazra/github-readme-stats) 
