@@ -22,7 +22,8 @@
 <div align="center">
     <b> <samp> Contate-me </samp></b>
     <br>
+    
 
-[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jéssica-de-melo-oliveira-a6588032a)](www.linkedin.com/in/jéssica-de-melo-oliveira-a6588032a)&nbsp; &nbsp; [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:s1029871348@gmail.com)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jéssica-de-melo-oliveira-a6588032a)](https://www.linkedin.com/in/j%C3%A9ssica-de-melo-oliveira-a6588032a/)&nbsp; &nbsp; [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=contateme.jessica@gmail.com)](contateme.jessica@gmail.com)
 
 </div>
