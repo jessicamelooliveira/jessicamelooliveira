@@ -1,31 +1,28 @@
+<p align="center">
+    <br>
+    <samp>
+        Eu sou a Jéssica, uma curiosa na área de programação.
+        <br> ⚡ Técnica em Eletrônica e estudante de Engenharia Elétrica ⚡
+        <br>
+    </samp>
+    <img align="middle"
+        src="https://github-readme-stats.vercel.app/api?username=jessicamelooliveira&show_icons=true&theme=synthwave&hide_title=true" />
+</p>
+
+<p align="center">
+    <br>
+    <samp>
+        Linguagens de programação mais usadas:
+        <br>
+    </samp>
+        <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+        <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+</p>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="200px">
+    <b> <samp> Contate-me </samp></b>
+    <br>
+
+[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jéssica-de-melo-oliveira-a6588032a)](www.linkedin.com/in/jéssica-de-melo-oliveira-a6588032a)&nbsp; &nbsp; [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:s1029871348@gmail.com)
+
 </div>
-
-<h1 align="center">Olá, mundo! 👋</h1>
-
-<p align="center"> 
-  Eu sou a Jéssica, uma curiosa na área de programação, apaixonada por aprender coisas novas.⚡ Com formação técnica em Eletrônica e atualmente cursando Engenharia Elétrica, estou sempre em busca de novos desafios e oportunidades para crescer. 💚 Sou brasileira e acredito que o aprendizado nunca deve parar!
-</p>
-
----
-
-### 🖥️ **Minha Experiência em Programação**
-
-<p align="left">
-  Estou começando a minha jornada na programação e, por enquanto, tenho experiência com as linguagens:
-</p>
-
-<div align="left">
-  <a href="#" title="C"> <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C"/> </a>
-  <a href="#" title="C++"> <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++"/> </a>
-</div>
-
-### 🚀 **O que vem por aí**
-
-<p align="left">
-  O futuro é cheio de possibilidades. Vamos ver onde essa jornada me leva! 😄
-</p>
-
-<img align="left" alt="Jéssica's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jessicamelooliveira&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamelooliveira)](https://github.com/anuraghazra/github-readme-stats) 
