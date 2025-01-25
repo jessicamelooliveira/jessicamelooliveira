@@ -5,7 +5,7 @@
 <h1 align="center">Olá, mundo! 👋 Meu nome é Jéssica!</h1>
 
 <p align="center"> 
-Sou uma curiosa na área de programação, apaixonada por aprender coisas novas.⚡ Com formação técnica em Eletrônica e atualmente cursando Engenharia Elétrica, estou sempre em busca de novos desafios e oportunidades para crescer. 💚 Sou brasileira e acredito que o aprendizado nunca deve parar!
+🔍 Sou uma curiosa na área de programação, apaixonada por aprender coisas novas. ⚡ Tenho formação técnica em Eletrônica e atualmente estou cursando Engenharia Elétrica. 🇧🇷 Sou brasileira e acredito que o aprendizado nunca deve parar!
 </p>
 
 ---
