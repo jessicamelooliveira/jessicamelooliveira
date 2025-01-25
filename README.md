@@ -1,29 +1,35 @@
 <p align="center">
-    <br>
-    <samp>
-        Eu sou a Jéssica, uma curiosa na área de programação.
-        <br> ⚡ Técnica em Eletrônica e estudante de Engenharia Elétrica ⚡
-        <br>
-    </samp>
-    <img align="middle"
-        src="https://github-readme-stats.vercel.app/api?username=jessicamelooliveira&show_icons=true&theme=synthwave&hide_title=true" />
+    Olá, mundo! Meu nome é Jéssica e sou apenas uma curiosa na área de programação
 </p>
+
 
 <p align="center">
     <br>
-    <samp>
         Linguagens de programação mais usadas:
-        <br>
-    </samp>
+    <br>
         <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
         <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 </p>
 
-<div align="center">
-    <b> <samp> Contate-me </samp></b>
+<p align="center">
     <br>
+        Contate-me:
+    </br>
+    <p align="center">
+        <a href="mailto:contateme.jessica@gmail.com"><img  height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a>
+        <a href="https://www.linkedin.com/in/jéssica-de-melo-oliveira-a6588032a/"><img height="30px"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a>
+    </p>
+</p>
+
+
+
+<p align="center">
     
+</p>  
 
-[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jéssica-de-melo-oliveira-a6588032a)](https://www.linkedin.com/in/j%C3%A9ssica-de-melo-oliveira-a6588032a/)&nbsp; &nbsp; [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=contateme.jessica@gmail.com)](contateme.jessica@gmail.com)
-
-</div>
+<p align="center">
+    <a href="https://github.com/jessicamelooliveira"><img height="150px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jessicamelooliveira&theme=synthwave"><a>
+    <a href="https://github.com/jessicamelooliveira"><img height="150px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jessicamelooliveira&hide=Html&theme=synthwave"><a>
+    <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+        alt="example" />
+</p>
