@@ -30,6 +30,4 @@
 <p align="center">
     <a href="https://github.com/jessicamelooliveira"><img height="150px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jessicamelooliveira&theme=synthwave"><a>
     <a href="https://github.com/jessicamelooliveira"><img height="150px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jessicamelooliveira&hide=Html&theme=synthwave"><a>
-    <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-        alt="example" />
 </p>
